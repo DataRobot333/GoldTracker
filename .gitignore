@@ -1,9 +1,6 @@
 # API secrets
 .env
 
-# collected data
-data/*.csv
-
 # python cache
 __pycache__/
 *.pyc
